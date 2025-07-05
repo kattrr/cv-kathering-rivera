@@ -51,7 +51,7 @@ Soy Kathering Rivera Rodríguez, ingeniera informática especializada en desarro
 
 ## 🧠 Créditos
 
-Este proyecto es parte de un reto de [roadmap.sh](https://roadmap.sh) para desarrollar un habilidades de FrontEnd desde Beginner a Advanced
+Este CV hace parte del reto propuesto por [roadmap.sh - Single Page CV](https://roadmap.sh/projects/single-page-cv), una iniciativa para construir un portafolio HTML desde cero con buenas prácticas semánticas, SEO y diseño accesible.
 
 ## 📝 Licencia
 
